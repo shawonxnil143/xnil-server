@@ -1,5 +1,5 @@
 {
-  "name": "xnilserver",
+  "name": "xnil-server",
   "version": "0.0.1",
   "description": "Fetch Url Downloads From Instagram & Facebook & TikTok & YouTube & Twitter & Google Drive & Pintarest & likee & threads",
   "main": "index.js",
