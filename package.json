@@ -1,6 +1,6 @@
 {
   "name": "xnil-server",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Fetch Url Downloads From Instagram & Facebook & TikTok & YouTube & Twitter & Google Drive & Pintarest & likee & threads",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MOHAMMAD-NAYAN/nayan-media-downloader.git"
+    "url": "git+https://github.com/shawonxnil143/xnil-server.git"
   },
   "keywords": [
     "instagram",
@@ -41,9 +41,9 @@
   "author": "NAYAN",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/MOHAMMAD-NAYAN/nayan-media-downloader/issues"
+    "url": "https://github.com/shawonxnil143/xnil-server/issues"
   },
-  "homepage": "https://github.com/MOHAMMAD-NAYAN/nayan-media-downloader#readme",
+  "homepage": "https://github.com/shawonxnil143/xnil-server#readme",
   "dependencies": {
     "nayan-media-downloader": "^2.6.6"
   },
