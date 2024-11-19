@@ -1,6 +1,6 @@
 ## Example 
 ```code
-const nayan = require('your-project-name');
+const nayan = require('xnil-server');
 
 nayan.alldown('url')
   .then(data => {
