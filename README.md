@@ -1,8 +1,8 @@
 ## Example 
 ```code
-const nayan = require('xnil-server');
+const xnil = require('xnil-server');
 
-nayan.alldown('url')
+xnil.alldown('url')
   .then(data => {
     console.log(data);
   })
