@@ -3,6 +3,9 @@
 
 
 ![npm](https://img.shields.io/npm/dw/xnil-server)
+[![Npm Version](https://badge.fury.io/js/xnil-server.svg)](https://www.npmjs.com/package/xnil-server)
+[![Month Downloads](https://img.shields.io/npm/dm/xnil-server.svg)](http://npm-stat.com/charts.html?package=xnil-server)
+[![Npm Licence](https://img.shields.io/npm/l/xnil-server.svg)](https://www.npmjs.com/package/xnil-server)
 ## Example 
 ```code
 const xnil = require('xnil-server');
