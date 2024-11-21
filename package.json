@@ -1,6 +1,6 @@
 {
   "name": "xnil-server",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Fetch Url Downloads From Instagram & Facebook & TikTok & YouTube & Twitter & Google Drive & Pintarest & likee & threads",
   "main": "index.js",
   "scripts": {
@@ -36,16 +36,20 @@
     "capcut",
     "likee",
     "threads",
-    "nayan"
+    "nayan",
+    "scaper",
+    "media"
   ],
-  "author": "NAYAN",
+  "author": "xnil",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/shawonxnil143/xnil-server/issues"
   },
   "homepage": "https://github.com/shawonxnil143/xnil-server#readme",
   "dependencies": {
-    "nayan-media-downloader": "^2.6.6"
+    "nayan-media-downloader": "^2.6.6",
+    "axios": "^1.7.7",
+    "cheerio": "^1.0.0"
   },
   "devDependencies": {
     "@types/node": "^22.1.0",
